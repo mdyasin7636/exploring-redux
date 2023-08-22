@@ -1,9 +1,10 @@
+import CaseOne from "./pages/CaseOne/CaseOne";
 
 const App = () => {
   return (
-    <div>
-      
-    </div>
+    <>
+      <CaseOne/>
+    </>
   );
 };
 
