@@ -1,8 +1,9 @@
+import Parent from "./Parent";
 
 const CaseTwo = () => {
     return (
         <div>
-            
+            <Parent/>
         </div>
     );
 };
